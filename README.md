@@ -1,4 +1,4 @@
-Syndrome Resampling in Quantum Error Correction Reproduction, collision statistics, finite-sample certification, and exact-population validation
+# Syndrome Resampling in Quantum Error Correction Reproduction, collision statistics, finite-sample certification, and exact-population validation
 
 This repository contains an exploratory research notebook, [`Untitled19.ipynb`](./Untitled19.ipynb), investigating syndrome resampling (SR) for quantum error correction (**QEC**). It starts with rotated surface-code memory simulations under circuit-level noise, studies the statistical problems created by rare or repeated syndrome strings, and then reproduces and extends numerical checks of the syndrome-resampling method using the original authors' code-capacity simulation model.
 
